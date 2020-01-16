@@ -34,10 +34,6 @@ with open('superheroes.csv', 'w') as f:
 	members = superheroes['members']
 
 	for hero in members:
-		writer.writerow([hero["name"], hero["age"], hero["secretIdentity"], hero["powers"]])
-		writer.writerow("squadName")
-		writer.writerow("homeTown")
-		writer.writerow("formed")
-		writer.writerow("secretBase")
-		writer.writerow("active")
+		writer.writerow([hero["name"], hero["age"], hero["secretIdentity"], hero["powers"], superheroes['squadName'], superheroes['homeTown'], superheroes['formed'], superheroes['secretBase'], superheroes['active']])
+
 

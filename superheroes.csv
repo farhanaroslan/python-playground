@@ -1,19 +1,4 @@
 Name,Age,Secret Identity,Powers,Squad Name,Hometown,Year Formed,Secret Base,Active
-Molecule Man,29,Dan Jukes,"['Radiation resistance', 'Turning tiny', 'Radiation blast']"
-s,q,u,a,d,N,a,m,e
-h,o,m,e,T,o,w,n
-f,o,r,m,e,d
-s,e,c,r,e,t,B,a,s,e
-a,c,t,i,v,e
-Madame Uppercut,39,Jane Wilson,"['Million tonne punch', 'Damage resistance', 'Superhuman reflexes']"
-s,q,u,a,d,N,a,m,e
-h,o,m,e,T,o,w,n
-f,o,r,m,e,d
-s,e,c,r,e,t,B,a,s,e
-a,c,t,i,v,e
-Eternal Flame,1000000,Unknown,"['Immortality', 'Heat Immunity', 'Inferno', 'Teleportation', 'Interdimensional travel']"
-s,q,u,a,d,N,a,m,e
-h,o,m,e,T,o,w,n
-f,o,r,m,e,d
-s,e,c,r,e,t,B,a,s,e
-a,c,t,i,v,e
+Molecule Man,29,Dan Jukes,"['Radiation resistance', 'Turning tiny', 'Radiation blast']",Super Hero Squad,Metro City,2016,Super tower,True
+Madame Uppercut,39,Jane Wilson,"['Million tonne punch', 'Damage resistance', 'Superhuman reflexes']",Super Hero Squad,Metro City,2016,Super tower,True
+Eternal Flame,1000000,Unknown,"['Immortality', 'Heat Immunity', 'Inferno', 'Teleportation', 'Interdimensional travel']",Super Hero Squad,Metro City,2016,Super tower,True
